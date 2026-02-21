@@ -39,6 +39,6 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: sriesaran13@gmai;.com  
+- 📧 Email: sriesaran13@gmail.com  
 - 🔗 LinkedIn: www.linkedin.com/in/srie-saran 
 
