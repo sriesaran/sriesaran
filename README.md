@@ -13,36 +13,6 @@
 ## 🧰 Tech Stack
 <p align="center">
 
-  <!-- Languages -->
-  <img src="https://skillicons.dev/icons?i=python,java,cpp,javascript" height="45" />
-
-  <br/>
-
-  <!-- Web Dev -->
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express" height="45" />
-
-  <br/>
-
-  <!-- Databases -->
-  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="45" />
-
-  <br/>
-
-  <!-- Tools -->
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" height="45" />
-
-</p>
-
----
-
-## 🔥 My LeetCode Progress
-<p align="center">
-  <img 
-       src="https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=Baloo%202&ext=heatmap" 
-       alt="LeetCode Stats" />
-</p>
-
----
 
 ## 📊 GitHub Analytics
 <p align="center">
