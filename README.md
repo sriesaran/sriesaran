@@ -1,10 +1,10 @@
-<h1 align="center">Hi, I'm Srie 👋</h1>
+<h1 align="center">Hi, I'm Srie Saran👋</h1>
 
 ---
 
 ## 🚀 About Me
 - 💻 Passionate about coding and problem-solving  
-- 📚 Exploring Data Structures, Algorithms & Full-stack development  
+- 📚 Exploring Data Structures, Algorithms,AI & Full-stack development  
 - 🎯 Actively practicing on LeetCode and improving daily  
 - 🌱 Always learning something new  
 
@@ -13,29 +13,32 @@
 ## 🧰 Tech Stack
 <p align="center">
 
+  <!-- Languages -->
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" height="45" />
 
-## 📊 GitHub Analytics
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical" 
-       height="180" 
-  />
-  <img 
-       src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" 
-       height="180" 
-  />
-</p>
+  <br/>
 
-<p align="center">
-  <img 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&layout=compact" 
-       height="180" 
-  />
+  <!-- Web Dev -->
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,react,nodejs,express" height="45" />
+
+  <br/>
+
+  <!-- Databases -->
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite,mongodb" height="45" />
+
+  <br/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" height="45" />
+
 </p>
 
 ---
 
+
+---
+
 ## 🌐 Connect With Me
-- 📧 Email: your-email@example.com  
-- 🔗 LinkedIn: your-link  
+- 📧 Email: sriesaran13@gmai;.com  
+- 🔗 LinkedIn: www.linkedin.com/in/srie-saran 
 
